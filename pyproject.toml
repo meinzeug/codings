@@ -1,0 +1,10 @@
+[project]
+name = "codings"
+version = "0.1.0"
+description = "KI-gesteuertes TUI Tool für Softwareentwicklung"
+authors = [{ name="Dennis", email="error2k84@gmail.com" }]
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

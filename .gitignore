@@ -6,11 +6,20 @@ __pycache__/
 # Virtual environment
 .venv/
 
-# IDE / Editor
+# Bytecode & Cache
+__pycache__/
+*.pyc
+
+# Virtuelle Umgebung
+.venv/
+
+# Logs, Umgebungen
+*.log
+.env
+
+# Editor-Dateien
 .vscode/
 .idea/
 
-# Logs & runtime
-*.log
-.env
+# System
 .DS_Store
